@@ -2,6 +2,7 @@
 
 # kode :
 
+```
 import pygame
 import random
 
