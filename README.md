@@ -1,4 +1,3 @@
-# Pytzle
 
 # kode :
 
